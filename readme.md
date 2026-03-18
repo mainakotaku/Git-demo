@@ -3,7 +3,6 @@
 please suport me god
 
 
-```
-javascript
+```javascript
 console.log('Hello everyone!!')
 ```
